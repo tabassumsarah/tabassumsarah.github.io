@@ -1,1 +1,25 @@
-theme: jekyll-theme-cayman
+# Setup
+title:        Sarah Tabassum
+tagline:      A responsive theme for your project on GitHub Pages
+baseurl:      ""
+paginate:     1
+
+# About/contact
+author:
+  name:       Sarah Tabassum
+  url:        http://yourhomepage.com 
+baseurl: ""
+url: "http://localhost:4000"
+github_username:  tabassumsarah
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
