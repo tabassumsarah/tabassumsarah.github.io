@@ -9,7 +9,7 @@ categories: main
   <h1>Javascript Basics</h1>
   <ul class="posts">
   <ul>
-    {% for post in site.posts %}
+    {% for post in site.category.javascripts %}
       <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
       </li>
