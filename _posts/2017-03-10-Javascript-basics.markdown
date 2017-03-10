@@ -8,10 +8,13 @@ categories: main
 <div id="home">
   <h1>Javascript Basics</h1>
   <ul class="posts">
-    {% for post in site.categories.javascripts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{ post.url }}">{{ post.title }}</a></li>
+  <ul>
+    {% for post in site.posts %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
     {% endfor %}
-
+  </ul>
 
   </ul>
 </div>
