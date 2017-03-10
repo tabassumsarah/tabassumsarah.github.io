@@ -9,8 +9,10 @@ categories: main
   <h1>Javascript Basics</h1>
   <ul class="posts">
     {% for post in site.categories.javascripts %}
-        {{ post.title }}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
+
+
   </ul>
 </div>
 
