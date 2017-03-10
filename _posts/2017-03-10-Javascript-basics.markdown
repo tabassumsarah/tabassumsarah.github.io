@@ -8,8 +8,6 @@ categories: main
 <div id="home">
   <h1>Javascript Basics</h1>
   <ul class="posts">
-
-
     {% for post in site.categories.javascripts %}
         {{ post.title }}
     {% endfor %}
