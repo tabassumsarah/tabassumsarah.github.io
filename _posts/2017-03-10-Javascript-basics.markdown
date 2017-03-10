@@ -25,6 +25,7 @@ var output_array = input_array.map
   //do stuff to each of your array elements
 
 });
+{% endhighlight %}
 
 First Iteration
 
