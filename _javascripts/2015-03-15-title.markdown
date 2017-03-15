@@ -1,28 +1,36 @@
 ---
 layout: post
-title:  a post with formatting and links
-date:   2015-03-15 16:40:16
-description: march & april, looking forward to summer
+title: a post with code
+date: 2015-07-15 15:09:00
+description: Javascript Map
 ---
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com" target="blank">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice" target="blank">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+Map:
 
-#### Hipster list
-<ul>
-	<li>brunch</li>
-	<li>fixie</li>
-	<li>raybans</li>
-	<li>messenger bag</li>
-</ul>
+The map() method is basically  a way to create an array but there is a catch in that. You can provide a function as an argument to the map() method. Which will be called on every element of the array you are calling map () on.
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan. 
+There are 3 arguments your custom call method can take. First one is the element of the array you are providing. Second one is the index of the element. Last one is the array itself you are calling map() on.
 
-<hr>
-<br/>
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar. 
+<div class="img_row">
+	<img class="col three" src="/img/mapo1.jpeg">
+</div>
 
-<blockquote>
-	We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another. 
-	—Anais Nin
-</blockquote>
+From MDN - 
+“The map() method creates a new array with the results of calling a provided function on every element in this array.”
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+{% raw  %}
+{% highlight javascript %}  <br/> code code code <br/> {% endhighlight %}
+{% endraw %}
+
+Produces something like this: 
+
+{% highlight javascript %}
+
+Array.prototype.map.call(['a','b'], function(inputLine, index, arr){
+    console.log(inputLine);
+    console.log(index);
+    console.log(arr);
+    return inputLine.toUpperCase() ;
+});
+
+
+{% endhighlight %}
