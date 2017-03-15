@@ -21,12 +21,13 @@ paginate_path: "/blog/page:num/"
 collections:
   javascripts:
     output: true
-    permalink: /portfolio/:path/
-  portfolio:
+    permalink: /learnings/:path/
+  learnings:
     output: true
-    permalink: /portfolio/:path/
+    permalink: /learnings/:path/
   poetry:
     output: true
     permalink: /poetry/:path/
+
 
 
