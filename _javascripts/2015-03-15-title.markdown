@@ -7,6 +7,7 @@ description: Javascript Map
 <div class="page-heading">
 Map:
 </div>
+  
 
 The map() method is basically  a way to create an array but there is a catch in that. You can provide a function as an argument to the map() method. Which will be called on every element of the array you are calling map () on.
 
@@ -20,7 +21,7 @@ From MDN -
 “The map() method creates a new array with the results of calling a provided function on every element in this array.”
 
 {% raw  %}
-{% highlight javascript %}  <br/> code code code <br/> {% endhighlight %}
+{% highlight javascript %}  <br/>  <br/> {% endhighlight %}
 {% endraw %}
 
 Produces something like this: 
