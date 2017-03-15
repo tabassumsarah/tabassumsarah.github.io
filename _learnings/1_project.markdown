@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Javascript Learning
-permalink: /javascripts/
+permalink: /learnings/
 description: Documenting as I am learning bits and pieces of javascript
 img: /img/12.jpg
 ---
