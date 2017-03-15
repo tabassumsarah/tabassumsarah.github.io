@@ -11,7 +11,7 @@ The map() method is basically  a way to create an array but there is a catch in 
 There are 3 arguments your custom call method can take. First one is the element of the array you are providing. Second one is the index of the element. Last one is the array itself you are calling map() on.
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/map01.jpeg">
+	<img class="col three" src="{{ site.baseurl }}/img/map01.jpg">
 </div>
 
 From MDN - 
