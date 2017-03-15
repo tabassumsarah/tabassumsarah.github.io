@@ -1,6 +1,6 @@
 ---
 layout: page
-title: portfolio
+title: Learnings
 permalink: /learnings/
 ---
 

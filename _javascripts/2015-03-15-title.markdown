@@ -5,7 +5,7 @@ date: 2015-07-15 15:09:00
 description: Javascript Map
 ---
 <div class="page-heading">
-	Map:
+Map:
 </div>
 
 The map() method is basically  a way to create an array but there is a catch in that. You can provide a function as an argument to the map() method. Which will be called on every element of the array you are calling map () on.
