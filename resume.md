@@ -14,13 +14,13 @@ For instance:
 - no front-end only roles (CSS & JavaScript) 
 
 -->
-<div class="article">
+
 #### Contacts
 - tabassum.sarah@gmail.com
 - Blog: http://sarahtabassum.com
 - Twitter: @s_tabassum
 - Github: tabassumsarah
-</div>
+
 <br/>
 
 I'm a software developer, currently residing in sydney, austrlia. Mostly worked with Java platform. I'm passionate about learning technologies on my spare time and coding.My experience of java is varied: from j2ee to standalone java based applcatipns, from various projects that I have been involved in several companies.
