@@ -13,7 +13,6 @@ For instance:
 - developer OR team lead
 - no front-end only roles (CSS & JavaScript) 
 
--->
 
 #### Contacts
 - tabassum.sarah@gmail.com
@@ -93,4 +92,4 @@ Microsoft Imagine Cup, 2011 - National Software Development Contest
 
 Microsoft Imagine Cup, 2010 - Next Generation Web Category 
 - Semi Finalist Microsoft May 2010
-
+-->
