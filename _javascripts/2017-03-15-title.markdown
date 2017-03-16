@@ -14,11 +14,11 @@ Last week I went to GGD event and found out about exercism.io, a learning platfo
 Just to note here due to some restriction I could not install node globally
 on my machine hence this verbose process.
 
-### Standalone Installation:
+## Standalone Installation:
 
 I have installed exercism.io as a standalone install. I did follow this blog: http://exercism.io/cli/install#installing-without-homebrew
 
-### Test with Jasmine:
+## Test with Jasmine:
 
 I have downloaded standalone jasmine (jasmine-standalone-2.5.2). 
 Now for exercism’s exercises, I did follow their standard command to get all the exercises. 
@@ -29,7 +29,7 @@ Now for exercism’s exercises, I did follow their standard command to get all t
     <li>Ran the tests using SpecRunner.</li>
 </ul>
 
-### Exerpt from my SpecRunner
+## Exerpt from my SpecRunner
 
 {% highlight html %}
 <html>
