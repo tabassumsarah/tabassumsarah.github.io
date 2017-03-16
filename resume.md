@@ -16,7 +16,7 @@ For instance:
 -->
 
 # Sarah Tabassum
-
+<br/>
 #### Contacts
 - tabassum.sarah@gmail.com
 - Blog: http://sarahtabassum.com
@@ -35,16 +35,16 @@ I enjoy writing what I learnt over the time.
 <br/>
 
 
-<h1> Professional Experience - Part 1</h1>
+<h1> Professional Experience </h1>
 
 **Currently working as a Java Developer** at <a href="http://www.booktopia.com.au/" target="blank">Booktopia Ltd.</a>
 <sub>Spring, Hibernate, JPA, ElasticPath, JSF, Velocity, PrimeFace, ElasticPath, Java 7</sub>
-
-•   Enhancing the system to meet new requirements.
-•   Extensive re-factoring to support legacy code and bug fixing.
-•   Research to identify the suitable technologies to use in the project.
-•   Develop test cases for the product. (Junit & Mockito, Spock, End to Ends, Integration).
-•   New functionality design, implement
+<br/>
+•   Enhancing the system to meet new requirements.<br/>
+•   Extensive re-factoring to support legacy code and bug fixing.<br/>
+•   Research to identify the suitable technologies to use in the project.<br/>
+•   Develop test cases for the product. (Junit & Mockito, Spock, End to Ends, Integration).<br/>
+•   New functionality design, implement<br/>
 
 
 <br/>
@@ -56,16 +56,16 @@ Projects include Priceine.com, Rakuten, TripAdvisor (Meta Channel), cTrip) etc.
 
 
 
-•   All of these projects have their own requirements as per the OTA standards. Integrate their API with the channel manager.
-•   Implementation of code in a timely manner.
-•   Implement UI enhancement for the customer front end for OTA's. 
-•   Implement new features/enhancements.
-•   Writing tests both unit/Integration/end to ends
-•   Develop test cases. (Junit, EasyMock).
-•   Pairing with business analyst, breaking down tasks.
-•   Perform tech analysis and write tech tasks for defects/change requests.
-•   Releasing verified code to production. 
-•   Production verification after deploying. 
+•   All of these projects have their own requirements as per the OTA <br/>standards. Integrate their API with the channel manager.<br/>
+•   Implementation of code in a timely manner.<br/>
+•   Implement UI enhancement for the customer front end for OTA's. <br/>
+•   Implement new features/enhancements.<br/>
+•   Writing tests both unit/Integration/end to ends<br/>
+•   Develop test cases. (Junit, EasyMock).<br/>
+•   Pairing with business analyst, breaking down tasks.<br/>
+•   Perform tech analysis and write tech tasks for defects/change requests.<br/>
+•   Releasing verified code to production. <br/>
+•   Production verification after deploying. <br/>
 
 <br/>
 **Worked as a Software Developer** at <a href="http://www.escenic.com/" target="blank">Escenic asia</a> **from Jan/2014 - Jan/2016**
@@ -74,21 +74,21 @@ Projects include Priceine.com, Rakuten, TripAdvisor (Meta Channel), cTrip) etc.
 
 
 
-•   Implement new features on various plug-in modules.
-•   Extensive cross browser testing.
-•   Undertaking analysis, creating technical documents, code development.
-•   Developed test harness for unit and integration testing.
-•   Implemented client side GUI centric model.
+•   Implement new features on various plug-in modules.<br/>
+•   Extensive cross browser testing.<br/>
+•   Undertaking analysis, creating technical documents, code development.<br/>
+•   Developed test harness for unit and integration testing.<br/>
+•   Implemented client side GUI centric model.<br/>
 
  
 <br/>
 <h1> Hackathons</h1>
 
 **As a participant**: 
-•   FashHack) at Sydney 2015.Secured place in top five among 30 teams.
-•   SheHacks 2016
-•   Imagine cup 2010
-<br/>
+•   FashHack at Sydney 2015.Secured place in top five among 30 teams.<br/>
+•   SheHacks 2016<br/>
+•   Imagine cup 2010<br/>
+
 **As one of the organizers**: 
 •   NASA Space App Challenge 2016
 
