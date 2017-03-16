@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /resume/
-title: resume
+title: Sarah Tabassum
 ---
 
 <!--
@@ -15,8 +15,6 @@ For instance:
 
 -->
 
-# Sarah Tabassum
-<br/>
 #### Contacts
 - tabassum.sarah@gmail.com
 - Blog: http://sarahtabassum.com
@@ -24,11 +22,7 @@ For instance:
 - Github: tabassumsarah
 <br/>
 
-I'm a software developer, currently residing in sydney, austrlia. Mostly worked with Java platform. 
-
-I'm passionate about learning technologies on my spare time and coding.
-
-My experience of java is varied: from j2ee to standalone java based applcatipns, from various projects that I have been involved in several companies.
+I'm a software developer, currently residing in sydney, austrlia. Mostly worked with Java platform. I'm passionate about learning technologies on my spare time and coding.My experience of java is varied: from j2ee to standalone java based applcatipns, from various projects that I have been involved in several companies.
 
 I enjoy writing what I learnt over the time.
 
@@ -82,12 +76,12 @@ Projects include Priceine.com, Rakuten, TripAdvisor (Meta Channel), cTrip) etc.
 
 <h1> Hackathons</h1>
 
-**As a participant**: 
+**As a participant**: </br>
 •   FashHack at Sydney 2015.Secured place in top five among 30 teams.<br/>
 •   SheHacks 2016<br/>
 •   Imagine cup 2010<br/>
 
-**As one of the organizers**: 
+**As one of the organizers**: </br>
 •   NASA Space App Challenge 2016
 
 <br/>
