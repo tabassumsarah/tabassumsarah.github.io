@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /resume/
-title: Sarah Tabassum
+title: resume
 ---
 
 <!--
