@@ -64,8 +64,9 @@ Projects include Priceine.com, Rakuten, TripAdvisor (Meta Channel), cTrip) etc.
 
 **Worked as a Software Developer** at <a href="http://www.escenic.com/" target="blank">Escenic asia</a> **from Jan/2014 - Jan/2016**<br/>
 <sub>Java,struts1 MVC, JavaScript, Ajax</sub>
+</br>
 
-<br/>
+**Projects: Escenic Content Engine, inpage editing**<br/>
 
 •   Implement new features on various plug-in modules.<br/>
 •   Extensive cross browser testing.<br/>
@@ -84,7 +85,6 @@ Projects include Priceine.com, Rakuten, TripAdvisor (Meta Channel), cTrip) etc.
 **As one of the organizers**: </br>
 •   NASA Space App Challenge 2016
 
-<br/>
 <h1> Awards</h1>
 
 Microsoft Imagine Cup, 2011 - National Software Development Contest 
