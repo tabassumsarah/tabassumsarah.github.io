@@ -32,8 +32,6 @@ My experience of java is varied: from j2ee to standalone java based applcatipns,
 
 I enjoy writing what I learnt over the time.
 
-<br/>
-
 
 <h1> Professional Experience </h1>
 
@@ -48,7 +46,6 @@ I enjoy writing what I learnt over the time.
 •   New functionality design, implement<br/>
 
 
-<br/>
 **Worked as a Grails Developer** at <a href="http://www.siteminder.com/" target="blank">SiteMinder</a> **from Jan/2014 - Jan/2016**
 <br/>
 <sub>Java, Groovy, Grails, hibernate, spring MVC, JavaScript, angular JS, REST/SOAP/POX web service</sub>
@@ -70,12 +67,11 @@ Projects include Priceine.com, Rakuten, TripAdvisor (Meta Channel), cTrip) etc.
 •   Releasing verified code to production. <br/>
 •   Production verification after deploying. <br/>
 
-<br/>
+
 **Worked as a Software Developer** at <a href="http://www.escenic.com/" target="blank">Escenic asia</a> **from Jan/2014 - Jan/2016**<br/>
 <sub>Java,struts1 MVC, JavaScript, Ajax</sub>
 
 <br/>
-
 
 •   Implement new features on various plug-in modules.<br/>
 •   Extensive cross browser testing.<br/>
@@ -83,8 +79,7 @@ Projects include Priceine.com, Rakuten, TripAdvisor (Meta Channel), cTrip) etc.
 •   Developed test harness for unit and integration testing.<br/>
 •   Implemented client side GUI centric model.<br/>
 
- 
-<br/>
+
 <h1> Hackathons</h1>
 
 **As a participant**: 
@@ -97,7 +92,6 @@ Projects include Priceine.com, Rakuten, TripAdvisor (Meta Channel), cTrip) etc.
 
 <br/>
 <h1> Awards</h1>
-
 
 Microsoft Imagine Cup, 2011 - National Software Development Contest 
 - 2nd Runner Up Microsoft May 2011
