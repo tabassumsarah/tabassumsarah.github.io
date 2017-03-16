@@ -31,7 +31,7 @@ Now for exercism’s exercises, I did follow their standard command to get all t
 
 ###Exerpt from my SpecRunner
 
-```html
+{% highlight html %}
 <html>
 <head>
   <meta charset="utf-8">
@@ -54,4 +54,4 @@ Now for exercism’s exercises, I did follow their standard command to get all t
 </body>
 </html>
 <br/> 
-```
+{% endhighlight %}
