@@ -24,11 +24,11 @@ For instance:
 - Github: tabassumsarah
 <br/>
 
-I'm a **software developer**, currently residing in sydney, austrlia. Mostly worked with **Java** platform. 
+I'm a software developer, currently residing in sydney, austrlia. Mostly worked with Java platform. 
 
 I'm passionate about learning technologies on my spare time and coding.
 
-My experience of **java** is varied: from **j2ee** to **standalone java based applcatipns**, from various projects that I have been involved in several companies.
+My experience of java is varied: from j2ee to standalone java based applcatipns, from various projects that I have been involved in several companies.
 
 I enjoy writing what I learnt over the time.
 
@@ -38,8 +38,9 @@ I enjoy writing what I learnt over the time.
 <h1> Professional Experience </h1>
 
 **Currently working as a Java Developer** at <a href="http://www.booktopia.com.au/" target="blank">Booktopia Ltd.</a>
-<sub>Spring, Hibernate, JPA, ElasticPath, JSF, Velocity, PrimeFace, ElasticPath, Java 7</sub>
 <br/>
+<sub>Spring, Hibernate, JPA, ElasticPath, JSF, Velocity, PrimeFace,ElasticPath, Java 7</sub>
+
 •   Enhancing the system to meet new requirements.<br/>
 •   Extensive re-factoring to support legacy code and bug fixing.<br/>
 •   Research to identify the suitable technologies to use in the project.<br/>
@@ -49,11 +50,13 @@ I enjoy writing what I learnt over the time.
 
 <br/>
 **Worked as a Grails Developer** at <a href="http://www.siteminder.com/" target="blank">SiteMinder</a> **from Jan/2014 - Jan/2016**
+<br/>
 <sub>Java, Groovy, Grails, hibernate, spring MVC, JavaScript, angular JS, REST/SOAP/POX web service</sub>
+<br/>
 
-**Projects: Integrate new OTA's API.**
+**Projects: Integrate new OTA's API.**<br/>
 Projects include Priceine.com, Rakuten, TripAdvisor (Meta Channel), cTrip) etc.
-
+<br/>
 
 
 •   All of these projects have their own requirements as per the OTA <br/>standards. Integrate their API with the channel manager.<br/>
@@ -68,10 +71,10 @@ Projects include Priceine.com, Rakuten, TripAdvisor (Meta Channel), cTrip) etc.
 •   Production verification after deploying. <br/>
 
 <br/>
-**Worked as a Software Developer** at <a href="http://www.escenic.com/" target="blank">Escenic asia</a> **from Jan/2014 - Jan/2016**
+**Worked as a Software Developer** at <a href="http://www.escenic.com/" target="blank">Escenic asia</a> **from Jan/2014 - Jan/2016**<br/>
 <sub>Java,struts1 MVC, JavaScript, Ajax</sub>
 
-
+<br/>
 
 
 •   Implement new features on various plug-in modules.<br/>
