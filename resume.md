@@ -5,7 +5,120 @@ title: resume
 description: Showcase your writing, short stories, or poems. Replace this text with your description.
 ---
 
-<blockquote>
-    We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another. 
-    —Anais Nin
-</blockquote>
+<!--
+
+Here you add comments for yourself.
+I like to have a list of stuff I'm focusing on.
+For instance:
+- taget an agile environment (no waterfall)
+- developer OR team lead
+- no front-end only roles (CSS & JavaScript) 
+
+-->
+
+# Sarah Tabassum
+
+## Profile
+
+
+[aside]
+
+#### Contacts
+- tabassum.sarah@gmail.com
+- Blog: http://sarahtabassum.com
+- Twitter: @s_tabassum
+- Github: tabassumsarah
+
+[/aside]
+
+
+I'm a **software developer**, currently residing in sydney, austrlia. MOstly worked with **Java** platform. 
+
+I'm passionate about learning technologies on my spare time and coding.
+
+My experience of **java** is varied: from **j2ee** to **standalone java based applcatipns**, from various projects that I have been involved in several companies.
+
+I enjoy writing what I learnt over the time.
+
+
+[block]
+
+<div class="header-bar">
+<h1> Professional Experience - Part 1</h1>
+</div>
+
+**Currently working as a Java Developer** at <a href="http://www.booktopia.com.au/" target="blank">Booktopia Ltd.</a>
+<sub>Spring, Hibernate, JPA, ElasticPath, JSF, Velocity, PrimeFace, ElasticPath, Java 7</sub>
+
+•   Enhancing the system to meet new requirements.
+•   Extensive re-factoring to support legacy code and bug fixing.
+•   Research to identify the suitable technologies to use in the project.
+•   Develop test cases for the product. (Junit & Mockito, Spock, End to Ends, Integration).
+•   New functionality design, implement
+
+[/block]
+
+[block]
+
+**Worked as a Grails Developer** at <a href="http://www.siteminder.com/" target="blank">SiteMinder</a> **from Jan/2014 - Jan/2016**
+<sub>Java, Groovy, Grails, hibernate, spring MVC, JavaScript, angular JS, REST/SOAP/POX web service</sub>
+
+**Projects: Integrate new OTA's API.**
+Projects include Priceine.com, Rakuten, TripAdvisor (Meta Channel), cTrip) etc.
+
+[aside]
+
+•   All of these projects have their own requirements as per the OTA standards. Integrate their API with the channel manager.
+•   Implementation of code in a timely manner.
+•   Implement UI enhancement for the customer front end for OTA's. 
+•   Implement new features/enhancements.
+•   Writing tests both unit/Integration/end to ends
+•   Develop test cases. (Junit, EasyMock).
+•   Pairing with business analyst, breaking down tasks.
+•   Perform tech analysis and write tech tasks for defects/change requests.
+•   Releasing verified code to production. 
+•   Production verification after deploying. 
+
+[/aside]
+[/block]
+
+[block]
+**Worked as a Software Developer** at <a href="http://www.escenic.com/" target="blank">Escenic asia</a> **from Jan/2014 - Jan/2016**
+<sub>Java,struts1 MVC, JavaScript, Ajax</sub>
+
+
+[aside]
+
+•   Implement new features on various plug-in modules.
+•   Extensive cross browser testing.
+•   Undertaking analysis, creating technical documents, code development.
+•   Developed test harness for unit and integration testing.
+•   Implemented client side GUI centric model.
+
+
+[/aside]
+
+[/block]
+
+<div class="header-bar">
+<h1> Hackathons</h1>
+</div>
+
+**As a participant**: 
+•   FashHack) at Sydney 2015.Secured place in top five among 30 teams.
+•   SheHacks 2016
+•   Imagine cup 2010
+
+**As one of the organizers**: 
+•   NASA Space App Challenge 2016
+
+<div class="header-bar">
+<h1> Awards</h1>
+</div>
+
+Microsoft Imagine Cup, 2011 - National Software Development Contest 
+- 2nd Runner Up Microsoft May 2011
+
+Microsoft Imagine Cup, 2010 - Next Generation Web Category 
+- Semi Finalist Microsoft May 2010
+
