@@ -27,7 +27,7 @@ collections:
     permalink: /learnings/:path/
   poetry:
     output: true
-    permalink: /poetry/:path/
+    permalink: /resume/:path/
 
 
 
