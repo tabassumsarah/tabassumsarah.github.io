@@ -1,9 +1,8 @@
 ---
-layout: page
 permalink: /resume/
 title: resume
 ---
-
+{% include res.html %}
 <!--
 
 Here you add comments for yourself.
