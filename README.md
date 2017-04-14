@@ -1,51 +1,62 @@
-# *folio
-A simple theme for showcasing your work, emphasis on whitespace, transparency, and helvetica. 
+# end2end
 
+[![Build Status](https://travis-ci.org/nandomoreirame/end2end.svg?branch=master)](https://travis-ci.org/nandomoreirame/end2end)
 
-<a href="http://liabogoev.com/-folio">Live Demo</a>
+Clean Jekyll theme
 
-<hr/>
+> :warning:
+  This theme requires ruby and rubygems installed
 
+* [x] Clean layout
+* [x] Resposive layout
+* [x] Preprocessor SASS
+* [x] CSS minified
+* [x] Pagination
+* [x] Syntax highlight
+* [x] Author config
+* [x] Comments with Disqus
+* [ ] Search posts
+* [ ] Share posts
 
-## Features
+---
 
-### Collections
-This Jekyll theme implements collections to let you break up your work into categories. The example is divided into poetry and portfolio, but easily revamp this into recipes, apps, short stories, limmericks, whatever your creative work is. 
-> To do this, edit the collections in the config file, create a corresponding folder, and update the portfolio and poetry source files. 
+### Start in 4 steps
 
-Three different layouts are included—the poetry layout, for a simple list of entries, the blog layout (index.html), for more detailed descriptive list of entries, and the portfolio layout. The portfolio layout overlays a descriptive hoverover on a background image. If no image is provided, the square is auto-filled with the chosen theme color. Thumbnail sizing is not necessary, as the grid crops images perfectly. 
+1. Download or clone repo `git clone git@github.com:nandomoreirame/end2end.git`
+2. Enter the folder: `cd end2end/`
+3. Install Ruby gems: `bundle install`
+4. Start Jekyll server: `bundle exec jekyll serve`
 
-### Portfolio Specifics
-You can easily add full pages for each of the projects in your portfolio. If you want one to link to an external website, create a file for it in _portfolio, and  fil in the YAML front matter as you would for another, but with a redirect, like so: 
+Access, [localhost:4000/end2end](http://localhost:4000/end2end)
 
-	---
-	layout: post
-	title: Project
-	description: a project that redirects to another website
-	img:
-	redirect: https://otherpage.com
-	--- 
+### Deploy in Github pages in 2 steps
 
-### Theming
-Six beautiful theme colors have been selected to choose from. The default is red, but quickly change it by editing the _base.scss file in line 40. The color variable are listed there, as well. 
+1. Change the variables `GITHUB_REPONAME` and `GITHUB_REPO_BRANCH` in `Rakefile`
+2. Run `rake` or `rake publish` for build and publish on Github
 
-### Photos
-Photo formatting is made simple using rows of a 3-column system. Make photos 1/3, 2/3, or full width. Easily create beautiful grids within your blog posts and projects pages. 
+---
 
-### Code Highlighting
-This theme implements Jekyll's built in code syntax highlighting with Pygments. Just use a liquid tag to delineate your code: 
-{% highlight python %}
-	code code code
-{% endhighlight %}
+### Using Rake tasks
 
+* Create a new page: `rake page name="contact.md"`
+* Create a new post: `rake post title="TITLE OF THE POST"`
 
-<hr/>
-The MIT License (MIT)
-Copyright (c) 2015 Lia Bogoev
+---
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+### Demo and Download
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+[Demo](http://nandomoreira.me/end2end/)
+[Download](https://github.com/nandomoreirame/end2end/archive/master.zip)
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+![end2end - free Jekyll theme](/screenshot.png)
 
+---
+
+### Copyright and license
+
+It is under [the MIT license](/LICENSE).
+
+> :warning:
+  Please remove metas `<meta name="robots" content="noindex">` and `<meta name="googlebot" content="noindex">` in `source/_layouts/default.html`
+
+Enjoy :yum:
