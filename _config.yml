@@ -1,54 +1,80 @@
-# Build settings
-permalink   : /blog/:year/:title/
-markdown    : kramdown
-highlighter : pygments
-gems: [jekyll-paginate]
 
-paginate: 3
-paginate_path: "/blog/page/:num/"
-comments: true
+##########################################
+#     Change these variables !important
+##########################################
 
-source: source
-destination: _site
+# Set this for Copyright in the footer
+owner: Name Surname
+
+# Optional quote in the footer
+# To disable set enable to false
+quote:
+  enable: true
+  quote: Some fancy quote
+  author: John Doe
+
+# Set this to your main site title. If page doesn't have its own title,
+# then this title will be used.
+title: Aliquam Theme
+
+
+# Following needed for disqus integration
+# Set your 'disqus' account name
+disqus:
+
+# Uncomment if deployed locally
+#url: https://localhost:4000
+
+# Set your host if deployed not locally
+# For example "https://yourGitHub.github.io"
+url:
+
+# Change this to your base URL starting with forward slash if site is in gh-pages branch
+# For example /branchName
+# NOTE! only change if site is NOT in master's branch
+baseurl:
+
+# Change this to your google analytics ID
+google_analytics:
+
+# Contact form pupublic key
+contact_PK:
+
+##########################################
+#          Optional variables
+##########################################
+
+# Set maximum posts per page
+paginate: 5
+
+# Set permalink
+permalink: /:categories/:title
+
+# MathJax support
+math: true
+
+collections:
+- definitions
+
+##########################################
+#          Do not change these variables
+##########################################
+
+include:
+  - _pages
+
 sass:
-  sass_dir: _scss
-  style: compressed # expanded
+  sass_dir: _sass
+sass:
+    style: compressed
 
-# SEO settings
-title: end2end
-description: "A free Jekyll theme for download"
-keywords: "Jekyll, theme, free, download, SEO, blog, web"
-url: http://nandomoreira.me
-baseurl: "/end2end"
-# baseurl: ""
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap # add /sitemap.xml file
 
-# google_analytics: UA-52446115-1
-repo: http://github.com/nandomoreirame/end2end
-disqus_shortname: "nandothemes"
-disqus_site_shortname: "nandothemes"
+paginate_path: /_pages/page:num
 
-# Author settings
-author:
-  name      : Fernando Moreira
-  job       : Frontend Engineer
-  bio       : "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
-  thumb     : /images/author.jpg
-  email     : nandomoreira.me@gmail.com
-  url       : http://nandomoreira.me
-  github    : http://github.com/nandomoreirame
-  twitter   : http://twitter.com/nandomoreirame
-  facebook  : http://facebook.com/fernando.dev
-  linkedin  : http://linkedin.com/in/nandomoreirame
-
-# navbar pages
-navbar:
-  - slug: about
-    title: About
-  # - slug: resume
-  #   title: Resume
-  # - slug: skills
-  #   title: Skills
-  - slug: blog
-    title: Blog
-
-exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
