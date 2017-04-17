@@ -2,11 +2,12 @@
 $color-black: #2B2B2B;
 $color-white: #fcfcfc;
 $color-blue: lighten(#1D408C, 10);
-$color-orange: #d16b19;
+$color-orange: #808080;
 $color-green: #1BA914;
 $color-red: #CF191D;
+$color-head: #fcfcfc;
 
-$color-code: darken($color-white, 10);
+$color-code: darken($color-white, 100);
 
 $color-paginator: darken($color-white, 30);
 $color-paginator-darker: darken($color-paginator, 10);
@@ -88,12 +89,12 @@ main a:hover,
 #wrapper > header a,
 #wrapper > header a:visited,
 .contact-form input[type="submit"] {
-  color: $color-white;
+  color: $color-orange;
 }
 
 //---------------------------BACKGROUND
 main {
-  background-color: $color-white;
+  background-color: $color-head;
 }
 
 /*************************************************************************
@@ -117,7 +118,7 @@ main {
 
 //---------------------------BACKGROUND
 .paginator {
-  background-color: $color-paginator;
+  background-color: $color-white;
 }
 
 //---------------------------BORDER
@@ -161,7 +162,7 @@ main {
 //---------------------------BACKGROUND
 
 #footer-main {
-  background-color: $color-black;
+  background-color: $color-white;
 }
 
 /*************************************************************************
@@ -171,7 +172,7 @@ main {
 //---------------------------FONT
 article > ul li:before,
 article > ol li::before {
-  color: $color-orange;
+  color: $color-black;
 }
 
 //---------------------------BACKGROUND

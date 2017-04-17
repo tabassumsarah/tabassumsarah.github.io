@@ -2,9 +2,9 @@
 $golden-ratio: 1.618;
 
 // font families
-$font-family-open-sans-condensed: 'Open Sans Condensed', sans-serif;
-$font-family-open-sans: 'Open Sans', sans-serif;
-$font-family-lato-serif: 'Lato', sans-serif;
+$font-family-open-sans-condensed: 'Amiri';
+$font-family-open-sans: 'Amiri';
+$font-family-lato-serif: 'Amiri';
 
 
 /*************************************************************************
@@ -14,7 +14,7 @@ $font-family-lato-serif: 'Lato', sans-serif;
 // device font size
 $f-s-mobile: 16px;
 $f-s-tablet: 18px;
-$f-s-desktop: 19px;
+$f-s-desktop: 16px;
 
 // set default font size to 100% of browser's font size
 $f-s-default: 1rem;
@@ -128,14 +128,14 @@ a {
                              TEXT TRANSFORM
 /*************************************************************************/
 
-//----------------------------UPPERCASE
+//----------------------------LOWERCASE
 #footer-main,
 .paginator,
 #main-nav,
 abbr,
 .post-meta,
 .contact-form input[type="submit"] {
-  text-transform: uppercase;
+  text-transform: lowercase;
 }
 
 
