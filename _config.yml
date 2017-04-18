@@ -10,12 +10,12 @@ owner: Sarah Tabassum
 # To disable set enable to false
 quote:
   enable: true
-  quote: Some fancy quote
-  author: John Doe
+  quote: Everyday struggle to be better than yesterday!
+  author: unknown
 
 # Set this to your main site title. If page doesn't have its own title,
 # then this title will be used.
-title: Aliquam Theme
+title: Sarah Tabassum
 
 
 # Following needed for disqus integration
