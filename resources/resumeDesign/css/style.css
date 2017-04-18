@@ -218,6 +218,11 @@ body.landing  {
 		background-color: #fff
 	}
 
+.mainAbout{
+	     margin: 0 auto; 
+		padding: 14em 0em 14em;
+		background-color: #fff
+}
 .intro {
 	margin-left: 35px; float: left; 
 	margin-top: 20px;
