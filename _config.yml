@@ -20,10 +20,10 @@ title: Sarah Tabassum
 
 # Following needed for disqus integration
 # Set your 'disqus' account name
-disqus: disqus_Es1y6uQYEB
+disqus: sarahtabassum-com
 
 # Uncomment if deployed locally
-#url: https://localhost:4000
+#url: http://127.0.0.1:4000/:4000
 
 # Set your host if deployed not locally
 # For example "https://yourGitHub.github.io"
