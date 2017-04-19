@@ -265,7 +265,7 @@ body.landing  {
 .base p { color: #aaa; line-height: 20px; }
 .base p.desc { color: #ccc; }
 .base h2 { font-size: 32px; color: #999; font-weight: normal; padding: 5px 0; }
-.base span p { padding: 0 0 10px; }
+.base span p { padding: 0 0 10px; margin-right: 120px; }
 .base span i { font-size: 16px; color: #999; margin-right: 5px; float: left; }
 .sta_link { color: #aaa; }
 .sta_link:hover { color: #999; border-bottom: 2px #999 solid; }
@@ -394,6 +394,7 @@ body.landing  {
 .descprition .time { width: 100%; border-top: 1px #eee solid; margin: 50px 0 0; padding: 50px 0; text-align: center; font-size: 22px; color: #bbb; }
 .descprition .time em { margin: 0 5px; color: #999; font-style: italic; }
 .descprition .time b { margin: 0 10px; color: #ddd; }
+
 
 
 /* carousel */

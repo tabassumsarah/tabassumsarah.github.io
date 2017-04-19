@@ -20,14 +20,14 @@ title: Sarah Tabassum
 
 # Following needed for disqus integration
 # Set your 'disqus' account name
-disqus:
+disqus: disqus_Es1y6uQYEB
 
 # Uncomment if deployed locally
 #url: https://localhost:4000
 
 # Set your host if deployed not locally
 # For example "https://yourGitHub.github.io"
-url:
+url:https://sarahtabassum.com
 
 # Change this to your base URL starting with forward slash if site is in gh-pages branch
 # For example /branchName
