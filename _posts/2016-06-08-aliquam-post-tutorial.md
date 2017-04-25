@@ -172,7 +172,7 @@ $$
 ac consequat erat posuere. Interdum et malesuada fames ac ante ipsum primis in faucibus. Curabitur odio sapien, sollicitudin ut pharetra in, tincidunt vel elit.
 
 <figure>
-<img alt="image test" src="/resources/images/main_front.jpg"/>
+<img alt="image test" src="{{ site.baseurl }}/resources/images/main_front1.jpg"/>
 <figcaption>
 <strong>Figure 1: </strong>Curabitur pharetra eget ante at vestibulum. Mauris ullamcorper lacus sed augue molestie, ac consequat erat posuere. 
 </figcaption>
