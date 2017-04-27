@@ -1,26 +1,11 @@
-{% if site.quote["enable"] %}
-<blockquote id="footer-quote">
-    <p>
-        {% if page.quote %}
-        {{ page.quote["quote"] }}
-        {% else %}
-        {{ site.quote["quote"] }}
-        {% endif %}
-    </p>
-    <footer>
-        <cite>
-        {% if page.quote %}
-        - {{ page.quote["author"] }}
-        {% else %}
-        - {{ site.quote["author"] }}
-        {% endif %}
-    </cite>
-    </footer>
-</blockquote>
-{% endif %}
+
 <div id="footer-main" >
-    <small>
-         ~2017~         
+    <ul>
+    <li><a href="http://facebook.com/"><i class="fa fa-facebook"></i></a></li>
+    <li><a href="http://linkedin.com/"><i class="fa fa-linkedin"></i></a></li>
+    <li><a href="http://twitter.com/"><i class="fa fa-twitter"></i></a></li>
+    <li><a href="http://plus.google.com/"><i class="fa fa-google-plus"></i> </a></li>
+</ul>      
     
-    </small>
+
 </div>
