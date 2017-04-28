@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Exercism & Javascript
-category: learnings
+category: techflakes
 comments: true
 description: So I decided to work on my JavaScript skills..
 tags:
     - javascript
-    - ipsum
 ---
 
 I usually am very skeptical when it comes to practise or work on my skills outside my day job. But things need to change. I am taking baby steps. First is to just start. So I tend to solve some of the problems during my lunch hours or break times during office. Once I will get in to the flow, I will slowly move this practice sessions on weekends by not caring what my beloved partners will think when I will respond "NO" to "Lets go for a camping". 

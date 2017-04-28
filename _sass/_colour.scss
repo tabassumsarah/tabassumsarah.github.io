@@ -5,7 +5,7 @@ $color-blue: lighten(#1D408C, 10);
 $color-orange: #808080;
 $color-green: #1BA914;
 $color-red: #CF191D;
-$color-head: #fcfcfc;
+$color-head: #fff;
 
 $color-code: darken($color-white, 100);
 
@@ -87,10 +87,14 @@ main a:hover,
 .env-header,
 .table th,
 #wrapper > header a,
-#wrapper > header a:visited,
-.contact-form input[type="submit"] {
+#wrapper > header a:visited{
   color: $color-orange;
 }
+
+.contact-form input[type="submit"] {
+  color: $color-white;
+}
+
 
 //---------------------------BACKGROUND
 main {
@@ -140,7 +144,7 @@ main {
     float: left;
 }
  
-#footer-main >ul >li> a i {
+#footer-main >ul >li> a i{
     background: #205D7A;
     color: #fff;
     width: 40px;
@@ -153,17 +157,18 @@ main {
     transition: all 0.2s ease-in-out;
 }
 
-.fa-facebook {
-    background:#3b5998
+#footer-main >ul >li> a i new {
+    background:#3b5998;
 } 
+
 .fa-linkedin {
-    background:#007bb6
+    background:#007bb6;
 }
 .fa-twitter {
-    background:#00aced
+    background:#00aced;
 }
 .google-plus {
-    background:#dd4b39
+    background:#dd4b39;
 }
 #footer-main > ul li a i:hover {
     opacity: .7;
@@ -196,7 +201,8 @@ main {
 //---------------------------BACKGROUND
 
 #footer-main {
-  margin-left:590px;
+  margin-left:615px;
+
 }
 
 /*************************************************************************

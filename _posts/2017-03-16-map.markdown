@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Map & Javascript
-category: learnings
+category: techflakes
 comments: true
 description: Messing with Map()..
 tags:

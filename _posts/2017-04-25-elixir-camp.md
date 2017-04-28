@@ -3,17 +3,17 @@ layout: post
 category: techflakes
 title: My First Code Camp
 comments: true
-description: My experience of going to a 3 day code camp. 
+description: My experience of attending a 3 day code camp. 
 tags:
     - event
     - coding
 ---
 
 
-This year I attended my [first ever code camp](http://elixir.camp/)  at Mittagong, NSW. Before I share some of my experience and about the camp itself, I would like to thank women who code Sydney.
-One morning I got this notification from our slack channel that there will be a code camp for elixir. Lucy Bain from WWC shared that organisers are offering 5 diversity tickets for the camp. I did know that elixir is a functional programming language and popular for its high speed and fault tolerance capability. Thats about it. Last year couple of my friends actually started playing with functional language and I was keen to get into in at some point of time. But as usual got busy with stuff. So I thought I should not miss this opportunity to know more about functional programming and the language itself. And hey, what will be more perfect place other than a bunch of expert elexir programmers in the country camping together! Event was a 4 day camp starting from 21st may finishing on 24th may 2017.  
+This year I attended my [first ever code camp](http://elixir.camp/)  at Mittagong, NSW. Before I share some of my experience and about the camp itself, I would like to thank women who code, Sydney.
+One morning I got this notification from our slack channel that there will be a code camp for elixir. Lucy Bain from WWC shared that organisers are offering 5 diversity tickets for the camp. I did know that elixir is a functional programming language and popular for its high speed and fault tolerance capability. Thats about it. Last year couple of my friends actually started playing with functional language and I was keen to get into it at some point. But as usual got busy with stuff. So I thought I should not miss this opportunity to know more about functional programming and the language itself. And hey, what will be more perfect place to learn from other than a bunch of expert elexir programmers in the country camping together! Event was a 4 day camp starting from 21st may finishing on 24th may 2017.  
 
-#### Got a company:
+#### It started great:
 
 Couple of days before I found another girl who is also going to this camp and member of WWC. We decided to go together from Sydney. We met at the station and soon became quite comfortable and started setting up or dev environment for elixir event. By the time we reached , we had our set up completed and we could compile elixir code.
 
@@ -35,7 +35,7 @@ In the evening organisers gave us intro about themselves and told us about the s
 <figure>
 <img alt="image test" src="{{ site.baseurl }}/resources/images/talks.jpg"/>
 <figcaption>
-<strong>Figure 1: </strong> Talks and presenation at Elixir camp
+<strong>Figure 2: </strong> Talks and presenation at Elixir camp
 </figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ There was another talk scheduled after lunch. In the mean time I was decided tha
 <figure>
 <img alt="image test" src="{{ site.baseurl }}/resources/images/breakfast_all.jpg"/>
 <figcaption>
-<strong>Figure 1: </strong>It was not all about learning, we had good food too!
+<strong>Figure 3: </strong>It was not all about learning, we had good food too!
 </figcaption>
 </figure>
 
@@ -73,23 +73,25 @@ In the evening I had a quick chat with Garret about my little module. He explain
 <figure>
 <img alt="image test" src="{{ site.baseurl }}/resources/images/POC.jpg"/>
 <figcaption>
-<strong>Figure 1: </strong>Garret helped me to chalk out the structure of my module.
+<strong>Figure 4: </strong>Garret helped me to chalk out the structure of my module.
 </figcaption>
 </figure>
 
 I was all happy and feeling cofident that I might build something out of this event. But I forgot that I came from imperative programming background. My mind is too slow for picking things up in functionaly way! Anyway, I could finish just parsing my data file. But I am hopefull that I will finish the rest of the module soon.
 
 #### More Talks:
-In between couple of lighting talks happened. We got to know how anyone can compile 3 languages under same erlang vm. Which was very cool. Also got to know about Flynn, a PaaS for deploying your app to production simply.
+In between couple of lighting talks happened. Egor, showed us how anyone can compile 3 languages under same erlang vm. Which was very cool. Also got to know about Flynn, a PaaS for deploying your app to production simply.
 
-Alexander Tsire gave a presentation on Production Maintenance for elixir. That was an interesting talk. He mentioned how his team struggle to debug and maintain code in the production. HIs talk was insightful. I am sure that will help others in terms of not to repeat same mistakes.
+Alexander Tsire gave a presentation on Production Maintenance for elixir. That was an interesting talk. He mentioned how his team struggle to debug and maintain code in the production. His talk was insightful. I am sure, that will help others in terms of not to repeat same mistakes.
 
 Martin Stannard, gave us a introductory talk on GenServer. And slo gave us a live demo how to create one. I really enjoyed the presentation as I read about this earlier. So I easily could connect.
+
+There were couple of other talks but I was too tired after lunch and took a nap.
 
 
 #### Thats about it:
 
-This was my first code camp. I was feeling little bit anxious before I went there. Not being comfortable with the language and also did not know anyone prior to the event. Once I went there, I talked to many, made couple of friends. Had good food, campfire and most importantly I learnt something!
+This was my first code camp. I was feeling little bit anxious before I went there. Not being comfortable with the language and also did not know anyone prior to the event. Once I went there, I talked to many, made couple of friends. Just getting outside of my comfort zone and making an effort to learn a completely new thing, it was a huge wiin-win for me. I had amazing time with good food, nice campfire and most importantly I came back with a basic knowledge of elixir, one of the coolest functional language of recent days! Woot!
 
 <figure>
 <img alt="image test" src="{{ site.baseurl }}/resources/images/firepit.jpg"/>
