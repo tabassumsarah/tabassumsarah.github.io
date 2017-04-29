@@ -35,7 +35,7 @@ url: https://tabassum.sarah.github.io
 baseurl:
 
 # Change this to your google analytics ID
-google_analytics:
+google_analytics: UA-98311478-1
 
 # Contact form pupublic key
 contact_PK: 31fa0804c40de1d24c8f3d681fe83907
