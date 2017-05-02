@@ -1,0 +1,9 @@
+---
+layout: default
+title: blog
+description: main page for lates entry
+---
+
+{% for page in paginator.posts %}
+{% include articles.html %}
+{% endfor %}

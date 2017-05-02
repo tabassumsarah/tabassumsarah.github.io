@@ -1,0 +1,60 @@
+---
+layout: post
+title: Exercism & Javascript
+category: techflakes
+comments: true
+description: So I decided to work on my JavaScript skills..
+tags:
+    - javascript
+---
+
+I usually am very skeptical when it comes to practise or work on my skills outside my day job. But things need to change. I am taking baby steps. First is to just start. So I tend to solve some of the problems during my lunch hours or break times during office. Once I will get in to the flow, I will slowly move this practice sessions on weekends by not caring what my beloved partners will think when I will respond "NO" to "Lets go for a camping". 
+
+Last week I went to GGD event and found out about exercism.io, a learning platform. Which provides smart ways of learning through coding.
+
+Just to note here due to some restriction I could not install node globally
+on my machine hence this verbose process.
+
+## Standalone Installation:
+
+I have installed exercism.io as a standalone install. I did follow this blog: http://exercism.io/cli/install#installing-without-homebrew
+
+## Test with Jasmine:
+
+I have downloaded standalone jasmine (jasmine-standalone-2.5.2). 
+Now for exercism’s exercises, I did follow their standard command to get all the exercises. 
+<ul>
+    <li>Manual copy of Jasmine’s SpecRunner.html file</li>
+    <li>Wrote a solution</li>
+    <li>Provided location of my source files for exercise &exercise.spec.js</li>
+    <li>Ran the tests using SpecRunner.</li>
+</ul>
+
+## Exerpt from my SpecRunner
+<div class="env-header">HTML/CSS</div>
+{% highlight html linenos %}
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Jasmine Spec Runner v2.5.2</title>
+  <link rel="shortcut icon" type="image/png" href="/Users/saraht/exercism/jasmine/lib/jasmine-2.5.2/jasmine_favicon.png">
+  <link rel="stylesheet" href="/Users/saraht/exercism/jasmine/lib/jasmine-2.5.2/jasmine.css">
+
+  <script src="/Users/saraht/exercism/jasmine/lib/jasmine-2.5.2/jasmine.js"></script>
+  <script src="/Users/saraht/exercism/jasmine/lib//jasmine-2.5.2/jasmine-html.js"></script>
+  <script src="/Users/saraht/exercism/jasmine/lib//jasmine-2.5.2/boot.js"></script>
+
+  <!-- include source files here... 
+   <script src="exercise.js"></script>
+    
+  <!-- include spec files here...
+   <script src="exercise.spec.js"></script>
+</head>
+
+<body>
+</body>
+</html>
+ 
+{% endhighlight %}
+<br/>

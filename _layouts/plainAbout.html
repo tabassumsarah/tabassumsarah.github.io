@@ -1,0 +1,97 @@
+<html>
+
+<head>
+    <title>
+        {% if page.title %} {{ page.title }} {% else %} {{ site.title }} {% endif%}
+    </title>
+    {% if page.description %}
+    <meta name="description" content="{{ page.description}}" /> {% endif %}
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ site.baseurl }}/resources/css/main.css" /> {% if page.css %}
+    <link rel="stylesheet" href="{{ site.baseurl }}{{ page.css }}" /> {% endif %}
+
+    <link rel="icon" href="{{ site.baseurl }}/resources/resumeDesign/images//favicon.png" type="image/x-icon" />
+    
+    <link rel="icon" href="images/favicon.png" type="image/x-icon" />
+    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon" />
+  
+    <link rel="apple-touch-icon-precomposed" href="{{ site.baseurl }}/resources/resumeDesign/images/apple-touch-icon-precomposed.png">
+
+    <link href="{{ site.baseurl }}/resources/resumeDesign/css/pace-theme-flash.css" rel="stylesheet" type="text/css">
+    
+    <link href="{{ site.baseurl }}/resources/resumeDesign/css/style.css" rel="stylesheet">
+
+    <link href="{{ site.baseurl }}/resources/resumeDesign/css/responsive.css" rel="stylesheet">
+   
+    <link href="{{ site.baseurl }}/resources/resumeDesign/css/font.css" rel="stylesheet" type="text/css">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+    <title>Sarah T</title>
+</head>
+
+<body>
+    <div id="wrapper">
+        {% include header.html %}
+        <main id="start">
+            <div class="articles">
+                <div style="margin-right: 100px; font-size:17px; margin-left:100px; text-align:justify; padding: 14em 0em 0em; background-color: #fff">
+                    <div class="content">
+                        <!--header-->
+                        <div class="header clearfix">
+                            <div class="avatar">
+                                <span class="avatar_pic circle"></span>
+                                <!--todo: <b class="doing r5">Man</b> -->
+                            </div>
+                            <div class="base">
+                                <p class="desc">Hello my name is</p>
+                                <h2>Sarah Tabassum</h2>
+                                <p><i aria-hidden="true" data-icon="&#xe01d;">
+                                
+                             </i>Currently in sydney</p>
+                            </div>
+                        </div>
+                    </div>
+                    <p>Hi! My name is Sarah Tabassum. Every time I mention my name I have to use my full name because there is always atleast another sara or sarah in the room :) I have been planning to start my own blog for about 5+ years or more. Yes, so what took this long? I will not lie, I tried, If you search you can find couple of my unfinished blogs with half-baked posts in the Internet world. Power of procrastination was so mighty that I got defeated every time. But hey, haven't you read Robert the Bruce and the spider? </br></br>
+                    Recent days I have started to be more involved in tech communities more than before. And every time I see talented people with full of energy and dedication I get inspired more and more to be honest. It took a lot of effort on my part to finally just spend a handful of my time to build this blog. Nothing fancy to brag about, but atleast I made this far. I have decided to use this blog as a medium of accountability towards my goals and wishlists.</br></br>
+                    This blog is build on Jekyll. I have used a theme named alequam and another open source <a href="https://github.com/lduo/resume">template</a> for the basic structure. Coming from a total backend-dev centric career I don't have much sense of design, I did try to customize it though! I have tried to make it more simple.(but..all my css files are messy enough to give you a headache). I will keep working on the blog whenver i will get time so that I can atleast tidy up my js and css files. You might notice some lacking in co-ordination of colors in differnt parts of pages (I would like to say that "those are features" but I wont!)! This site is still in progress mode.</br></br>
+                    Currently I live in Sydney, a beautiful city in NSW, Australia. Moving to sydney was a big change in my life. I gained immense amount of lessons in this transition where some of thme are postive and some are debatable :p I occasionaly write about random take on experience and overall life style that I built for myself so far from my home town.</br></br>
+
+                    By profession I am a software developer. I have a section, techflakes where I document all my findings and learnings about tech and programming. I like to learn new things is so cliché that I never say that. I am trying to work on my goal which is to feel accomplished at the end of each day.</br></br>
+
+                    I am a bit of restless soul, try to do lots of things at once and fail miserably! I love to draw and paint. Took some lessons last year and this year on watercolor and drawing and loved every bit of it. I love photography. I used to be more regular, participating on photo walks and safaris. Not that regular anymore still whenever I go on vacations I try to spend a little bit of time in taking photos. Here are my <a href="https://www.flickr.com/photos/only_sarah">flickr</a> and <a href="https://www.instagram.com/sarahnotrue/">instagram</a> incase you would like to checkout some amateur photography.</br></br>
+
+                    I am a vivid sleeper. I am not sure if anyone ever used 'vivid' and 'sleeper' together but it’s true. Most of the time when I should be doing something meaningful I tend to sleep. I am working on that too. 
+
+                    I have two cheeky cats Tj and Cricket. These two amazing fellas keep me warm and happy when I go home after a long day. Not because they are friendly and cuddly but mostly because I am cuddly and friendly towards them! Besides these two feline creatures, I have also this amazing hooman in my life who is always there to support me, my soul/life partner. I might randomly mention him in my posts!</br></br>
+
+                    I love star wars and greys anatomy and not ashamed to mention those two in the same go. Silent Hill is one of my favorite movies. I love colors around me. Here you can look into my desk at work and desk at home! I love reading no doubt but as I said my sleeping ritual often comes in between! I am having a section where I will post what I am currently reading.<br></br>
+                    At the end of the day tis blog is nothing out of the box or anything but still if you would like to give me any feedback, sugestion or any form of positive vibe then do <a href="{{ site.baseurl }}/pages/contact.html"> Say Hi </a> please! I would love that!
+                    </p>
+
+                </div>
+            </div>
+        </main>
+        {% include paginator.html %}
+        <footer style="background-color: #fff;">
+            {% include footer.html %}
+        </footer>
+    </div>
+    <!--Jquery 2.1 e6、7、8-->
+    <!--effect-->
+    <script type="text/javascript" src="{{ site.baseurl }}/resources/resumeDesign/js/jquery-2.1.1.min.js"></script>
+    <!--jquery -->
+    <script type="text/javascript" src="{{ site.baseurl }}/resources/resumeDesign/js/jQuery.print.js"></script>
+    <!--jquery -->
+    <script type="text/javascript" src="{{ site.baseurl }}/resources/resumeDesign/js/jquery.transit.min.js"></script>
+    <!--jquery bootstrap carousel-->
+    <script type="text/javascript" src="{{ site.baseurl }}/resources/resumeDesign/js/carousel.min.js"></script>
+
+    <!--jquery loadding-->
+    <script type="text/javascript" src="{{ site.baseurl }}/resources/resumeDesign/js/pace.min.js"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/resources/resumeDesign/js/common.js">
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
+</body>
+
+</html>
