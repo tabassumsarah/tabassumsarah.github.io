@@ -5,6 +5,7 @@
 <div id="wrapper">
     {% include header.html %}
     <main id="start">
+
         <div class="articles" style="font-size:18px;">
             {{ content }}
         </div>
@@ -14,6 +15,8 @@
         {% include footer.html %}
     </footer>
 </div>
+
+
 {% if site.disqus %}
 <script id="dsq-count-scr" src="//{{ site.disqus }}.disqus.com/count.js" async></script>
 {% endif %}
